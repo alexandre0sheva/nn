@@ -1,12 +1,12 @@
 {
   "name": "nn",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "My first neural network",
   "main": "nn.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Alex",
+  "author": "Alexander Shevchenko",
   "license": "ISC",
   "dependencies": {
     "ramda": "^0.22.1",
