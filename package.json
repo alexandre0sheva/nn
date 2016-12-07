@@ -1,0 +1,22 @@
+{
+  "name": "nn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.22.1",
+    "seed-random": "^2.2.0"
+  },
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.8",
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
